@@ -1,16 +1,11 @@
 
+
 # Convertir numeros a letras
 
 
-
-
-
-<button onclick="NumeroALetras(495347)">enviar</button>
+NumeroALetras(495347)
 
 # resultado
 CUATROCIENTOS NOVENTA Y CINCO MIL TRESCIENTOS CUARENTA Y SIETE PESOS
 
 
-
-
-!
